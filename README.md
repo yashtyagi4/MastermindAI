@@ -1,4 +1,5 @@
-# MastermindAI
+![Screen Shot 2022-08-31 at 10 09 10 PM](https://user-images.githubusercontent.com/85970478/187823766-04afc2fe-a3fb-4743-9059-29f03a00eb62.png)
+#
 **AI Solver for Mastermind Game**
 
 **Written In C++ with compiler G++ (MinGW.org GCC-6.3.0-1)**
